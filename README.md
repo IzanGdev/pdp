@@ -1,6 +1,5 @@
 
 
-## example
+## Paradigmas de Programacion
 
-TODO
-
+Tps de estudio

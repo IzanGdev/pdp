@@ -12,3 +12,4 @@ jobs:
           chmod a+x ./wollok-ts-cli
           ./wollok-ts-cli test --skipValidations -p ./
         shell: bash
+
